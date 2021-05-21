@@ -1,0 +1,72 @@
+body {
+	background-image:url(../images/slika4.jpg);
+}
+
+#wrapper {
+	margin:30px auto;
+	width:250px;
+}
+
+#search {
+	background-color: rgba(218, 252, 68,.5);
+	border:1px solid #1c1717;
+	border-radius:15px 15px 0 15px;
+	padding: 10px 10px 30px 10px;
+}
+
+
+#search img {
+	display: block;
+	width:100%;
+}
+
+#search a img {
+	width:50px;
+	height: 50px;
+	display: inline;
+	margin-bottom: 10px;
+}
+
+#result {
+	margin-top:30px;
+	border: 1px solid #1c1717;
+	border-radius: 15px 0 0 0;
+	padding: 10px;
+	background-color: rgba(219, 72, 72,.5);
+	text-align: center;
+}
+
+#result img {
+	float: right;
+	width:20%;
+}
+
+#result p {
+	margin-right: 10px;
+}
+
+#message {
+	background-color: rgba(42, 104, 204,.5);
+	border: 1px solid #1c1717;
+	border-radius: 10px 10px 0 10px;
+	text-align: center;
+	margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
